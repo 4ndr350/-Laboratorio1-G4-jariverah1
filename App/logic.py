@@ -134,13 +134,13 @@ def load_books_tags(catalog, filename):
     :rtype: int
     """
     # TODO: Mods Lab 1, integrar vista y logica
-    book_tags=catalog.get("Book_tags")
+    book_tags=catalog.get("book_tags")
     book_tags_file=os.path.join(data_dir, filename)
-    catalog["Book_tags"] =set.load_set(book_tags, book_tags_file)
+    catalog["book_tags"] =set.load_set(book_tags, book_tags_file)
     if book_tags is None:
         return None
     else:
-        return set.size(catalog.get("Book_tags"))
+        return set.size(catalog.get("book_tags"))
 
 # Funciones de consulta
 
