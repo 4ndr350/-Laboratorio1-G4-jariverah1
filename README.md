@@ -40,7 +40,7 @@ Los estudiantes editan esta sección para agregar sus nombres, correos electrón
 
 1. Jesus Andres Rivera Hernandez, ja.riverah1@uniandes.edu.co, 202415977.
 1. Juan Jose Carrera Luna, j.carreral@uniandes.edu.co, 202311226.
-1. Jose Daniel Rojas Ortega, jd.rojas23@uniandes.edu.co, 202326777.
+1. Jose Daniel Rojas Ortega, jd.rojas23@uniandes.edu.co, 202326777. 
 
 [Volver al inicio](#laboratorio-1)
 
