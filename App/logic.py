@@ -28,8 +28,6 @@
 
 import os
 
-
-# Importar el modulo de la estructura de datos set
 from DataStructures import set as set
 
 # Directorio de datos de los archivos
